@@ -17,3 +17,5 @@ print("wangwei:","hello,you can call me paixiaoxing,i am the first to here!i am 
 
 
 print('print("print")')  #wjher
+
+print("Say something.") #xhx
