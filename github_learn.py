@@ -14,3 +14,6 @@ hello,welcome to github
 """
 print("welcome to github!")
 print("wangwei:","hello,you can call me paixiaoxing,i am the first to here!i am a real man = =")
+
+
+print('print("print")')  #wjher
